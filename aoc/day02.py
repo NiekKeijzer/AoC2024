@@ -58,5 +58,5 @@ if __name__ == '__main__':
 
             reports.append(report)
 
-    # print(f"{part1(reports)=}")
+    print(f"{part1(reports)=}")
     print(f"{part2(reports)=}")
